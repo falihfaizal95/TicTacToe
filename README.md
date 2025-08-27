@@ -1,6 +1,6 @@
 # Tic Tac Toe (Java Console Game)
 
-This is a simple 2-player Tic Tac Toe game written in Java that runs in the terminal. Players take turns entering their moves by specifying the row and column. The game checks for wins, draws, and invalid inputs.
+This is a simple 2-player Tic Tac Toe game written in Java that runs in the terminal. Players take turns entering their moves by specifying the row and column. The game checks for wins, draws, and invalid inputs. Have Fun!
 
 ## Features
 
