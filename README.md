@@ -3,7 +3,7 @@
 This is a simple 2-player Tic Tac Toe game written in Java that runs in the terminal. Players take turns entering their moves by specifying the row and column. The game checks for wins, draws, and invalid inputs. Have Fun!
 
 ## Features
-
+--------------------------------------------------------------------
 - Console-based 3x3 Tic Tac Toe board
 - Input validation for valid coordinates and empty cells
 - Win and draw detection
